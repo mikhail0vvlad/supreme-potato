@@ -1,4 +1,7 @@
 HEAD
 Commit 2
+HEAD
 Commit 5
 parent of 907d2b1 (Commit 2)
+
+parent of 47fc764 (Commit 5)
